@@ -1,0 +1,1 @@
+var json_Hotels_10 = {"type":"FeatureCollection","name":"Hotels_10","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"1","hotels":"Bandla prem hotel","location":"hotel"},"geometry":{"type":"Point","coordinates":[80.634884142985655,16.262566899419859]}}]}

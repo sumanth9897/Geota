@@ -1,0 +1,1 @@
+var json_house_center_8 = {"type":"FeatureCollection","name":"house_center_8","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[]}
